@@ -69,9 +69,7 @@ class Person
             self.happiness += 1
             'blah blah sun blah rain'
         else 
-            friend.happiness = 7
-            self.happiness = 7
-            
+                       
             'blah blah blah blah blah'
         end
             
